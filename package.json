@@ -1,7 +1,7 @@
 {
   "name": "snippets-from-gist",
   "main": "./lib/snippets-from-gist",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Pull snippets from your gist repository.",
   "keywords": [],
   "activationCommands": {

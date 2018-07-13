@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Snippets From Gist",
+          "submenu": [
+            {
+              "label": "Pull",
+              "command": "snippets-from-gist:pull"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

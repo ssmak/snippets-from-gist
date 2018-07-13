@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "snippets-from-gist:pull"
   },
-  "repository": "https://github.com/atom/snippets-from-gist",
+  "repository": "https://github.com/ssmak/snippets-from-gist",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

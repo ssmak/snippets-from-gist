@@ -35,9 +35,9 @@ https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705
 
 3. Pull the snippets from your Gist
 ```
-#### Method 1:
+# Method 1
 Use the hot key Ctrl+Alt+x
-#### Method 2:
+# Method 2
 From the Packages menu ->  Snippets From Gist -> Pull
 ```
 

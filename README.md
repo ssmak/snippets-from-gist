@@ -24,23 +24,23 @@ Originally, all the snippets are grouped to a single file called snippets.cson i
 </div>
 
 ## Installation + Use
-1. Install the Atom package (https://www.npmjs.com/package/jquery.trackrails)
+1. Install the Atom package
 ``` bash
 apm install snippets-from-gist
 ```
-2. Locate to the package setting and type your gist repository like this (* Remember to press -Enter-)
+2. Locate to the package setting and type your gist repository like this (*Remember* to press -Enter- after edit)
 ```bash
 https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705
 ```
 
 3. Pull the snippets from your Gist
-Method 1:
+#### Method 1:
 Use the hot key Ctrl+Alt+x
-Method 2:
-From the Packages menu ->  Snippets From Gist -> pull
+#### Method 2:
+From the Packages menu ->  Snippets From Gist -> Pull
 
 4. Reload the workspace
-Use the hot key Ctrl-Alt-F5
+Use the hot key Ctrl-Shift-F5
 
 ## Test
 New a page and try your snippets. By the way, your can also view your snippets from File -> Snippets

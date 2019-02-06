@@ -32,13 +32,13 @@ apm install snippets-from-gist
 ```bash
 https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705
 ```
+**You can define your own snippet which hosted as gist on Github and just like this: https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705**
 
 3. Pull the snippets from your Gist
 ```
-# Method 1
-Use the hot key Ctrl+Alt+x
-# Method 2
-From the Packages menu ->  Snippets From Gist -> Pull
+# Use the hot key Ctrl+Alt+x
+OR
+# From the Packages menu ->  Snippets From Gist -> Pull
 ```
 
 4. Reload the workspace

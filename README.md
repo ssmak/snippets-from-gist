@@ -46,8 +46,8 @@ Use the hot key Ctrl-Shift-F5
 ## Test
 New a page and try your snippets. By the way, your can also view your snippets from File -> Snippets
 
-## Use your own snippet which defined on Gist. For detail, please refer to this example
-https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705**
+## Use your own snippet. Please refer to this example
+https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705
 
 
 ## License

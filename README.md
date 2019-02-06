@@ -32,7 +32,6 @@ apm install snippets-from-gist
 ```bash
 https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705
 ```
-**You can define your own snippet which hosted as gist on Github and just like this: https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705**
 
 3. Pull the snippets from your Gist
 ```
@@ -46,6 +45,10 @@ Use the hot key Ctrl-Shift-F5
 
 ## Test
 New a page and try your snippets. By the way, your can also view your snippets from File -> Snippets
+
+## Use your own snippet which defined on Gist. For detail, please refer to this example
+https://gist.github.com/ssmak/607432b1d66401428a7bcf5be316f705**
+
 
 ## License
 MIT

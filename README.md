@@ -4,8 +4,11 @@
 </h5>
 <br />
 <div align="center">
+  <a href="https://github.com/ssmak/snippets-from-gist">
+    <img src="https://img.shields.io/badge/version-v.1.4.5-blueviolet.svg" />
+  </a>
   <a href="https://atom.io/packages/snippets-from-gist">
-    <img src="https://img.shields.io/apm/dm/vim-mode.svg" alt="Download Atom.io Package." />
+    <img src="https://img.shields.io/badge/env-atom-orange.svg" />
   </a>
 </div>
 <br />

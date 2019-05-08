@@ -4,14 +4,17 @@
 </h5>
 <br />
 <div align="center">
+  <a href="https://github.com/ssmak/snippets-from-gist">
+    <img src="https://img.shields.io/badge/version-v.1.4.5-blueviolet.svg" />
+  </a>
   <a href="https://atom.io/packages/snippets-from-gist">
-    <img src="https://img.shields.io/apm/dm/vim-mode.svg" alt="Download Atom.io Package." />
+    <img src="https://img.shields.io/badge/env-atom-orange.svg" />
   </a>
 </div>
 <br />
 
 ## History
-Originally, all the snippets are grouped to a single file called snippets.cson in Atom. Thus, it is too difficult to manage and share between multiple computers or workspaces. Now, you can manipulate your snippets on GitHub as Gist and pull to your Atom environment on demand. Let keep snippets up to date for all Atom workspaces as you concerned.
+Originally, all the custom snippets are grouped to a single file called snippets.cson in Atom. Thus, it is too difficult to manage and share between multiple computers or workspaces. Now, you can manipulate your snippets on GitHub as Gist and pull to your Atom environment on demand. Let keep snippets up to date for all Atom workspaces as you concerned.
 <br />
 <div align="center">
   <a href="https://paypal.me/ssmak">

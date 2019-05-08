@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ssmak/snippets-from-gist">
-    <img src="https://img.shields.io/badge/version-v1.4.5-blueviolet.svg" />
+    <img src="https://img.shields.io/badge/version-v1.4.6-blueviolet.svg" />
   </a>
   <a href="https://atom.io/packages/snippets-from-gist">
     <img src="https://img.shields.io/badge/env-atom-orange.svg" />
